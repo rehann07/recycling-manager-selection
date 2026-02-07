@@ -1,0 +1,966 @@
+[
+  {
+    "id": 1,
+    "name": "Wayne Stanton",
+    "experience_years": 6,
+    "skills": [
+      "Circular Economy Principles",
+      "Hazardous Waste Management",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 95.6,
+      "sustainability": 94.5,
+      "team_motivation": 86.8,
+      "average": 92.3
+    },
+    "email": "Wayne_Stanton17@gmail.com",
+    "phone": "801.270.4216 x79633",
+    "location": "Wilfredland, WV",
+    "education": "B.S. Environmental Science, Georgia Tech",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/9.jpg",
+    "notes": "Vulgivagus tempus adficio armarium facere nulla acervus qui sub."
+  },
+  {
+    "id": 2,
+    "name": "Earnest Breitenberg",
+    "experience_years": 15,
+    "skills": [
+      "Hazardous Waste Management",
+      "Circular Economy Principles",
+      "Fleet Management"
+    ],
+    "scores": {
+      "crisis_management": 91.7,
+      "sustainability": 95.7,
+      "team_motivation": 74,
+      "average": 87.13
+    },
+    "email": "Earnest_Breitenberg@gmail.com",
+    "phone": "(267) 854-9641 x7737",
+    "location": "South Cale, VA",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/64.jpg",
+    "notes": "Ascit absum bis maxime vitiosus avaritia adduco atqui celer adhuc."
+  },
+  {
+    "id": 3,
+    "name": "Shawna Corkery",
+    "experience_years": 3,
+    "skills": [
+      "Circular Economy Principles",
+      "Lean Six Sigma",
+      "Plastic Extrusion"
+    ],
+    "scores": {
+      "crisis_management": 90.7,
+      "sustainability": 71.9,
+      "team_motivation": 80.6,
+      "average": 81.07
+    },
+    "email": "Shawna_Corkery@gmail.com",
+    "phone": "1-323-434-2028",
+    "location": "South Rasheed, MI",
+    "education": "B.S. Environmental Science, Local State Tech",
+    "shift_preference": "Day Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/48867137",
+    "notes": "Usque cinis timor comedo vigor credo cicuta articulus."
+  },
+  {
+    "id": 4,
+    "name": "Maryann Zieme",
+    "experience_years": 7,
+    "skills": [
+      "OSHA Safety Protocols",
+      "Hazardous Waste Management",
+      "Lean Six Sigma",
+      "Fleet Management",
+      "Plastic Extrusion"
+    ],
+    "scores": {
+      "crisis_management": 76,
+      "sustainability": 81.7,
+      "team_motivation": 91.1,
+      "average": 82.93
+    },
+    "email": "Maryann_Zieme85@yahoo.com",
+    "phone": "941-695-4620 x0208",
+    "location": "Zboncakstead, KY",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/44.jpg",
+    "notes": "Coepi reiciendis cura unus culpa comminor cohaero."
+  },
+  {
+    "id": 5,
+    "name": "Christopher Hirthe",
+    "experience_years": 17,
+    "skills": [
+      "Plastic Extrusion",
+      "OSHA Safety Protocols",
+      "Wastewater Treatment",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 80.6,
+      "sustainability": 69.2,
+      "team_motivation": 92.7,
+      "average": 80.83
+    },
+    "email": "Christopher_Hirthe@gmail.com",
+    "phone": "432.228.2746 x81891",
+    "location": "Hackettborough, AK",
+    "education": "B.S. Environmental Science, Local State Tech",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/83.jpg",
+    "notes": "Conitor abstergo depopulo aptus labore aqua debitis comedo totam quae."
+  },
+  {
+    "id": 6,
+    "name": "Wade Reilly",
+    "experience_years": 9,
+    "skills": [
+      "ISO 14001 Compliance",
+      "Inventory Control",
+      "Plastic Extrusion",
+      "Wastewater Treatment"
+    ],
+    "scores": {
+      "crisis_management": 75.8,
+      "sustainability": 85.6,
+      "team_motivation": 73.2,
+      "average": 78.2
+    },
+    "email": "Wade.Reilly0@yahoo.com",
+    "phone": "490.434.5055 x08967",
+    "location": "Cambridge, NV",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/21.jpg",
+    "notes": "Vindico trucido cur ulciscor autus socius cubicularis."
+  },
+  {
+    "id": 7,
+    "name": "Marcos Sawayn",
+    "experience_years": 15,
+    "skills": [
+      "Plastic Extrusion",
+      "Fleet Management",
+      "Inventory Control"
+    ],
+    "scores": {
+      "crisis_management": 88.6,
+      "sustainability": 79.2,
+      "team_motivation": 82.7,
+      "average": 83.5
+    },
+    "email": "Marcos_Sawayn17@hotmail.com",
+    "phone": "(293) 741-1640 x267",
+    "location": "Albintown, OR",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Night Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/84612083",
+    "notes": "Debilito ventito thymbra tot vomer arceo iste suspendo."
+  },
+  {
+    "id": 8,
+    "name": "Ellen Botsford",
+    "experience_years": 3,
+    "skills": [
+      "Fleet Management",
+      "Hazardous Waste Management",
+      "Circular Economy Principles",
+      "Wastewater Treatment"
+    ],
+    "scores": {
+      "crisis_management": 92.5,
+      "sustainability": 66.2,
+      "team_motivation": 85.9,
+      "average": 81.53
+    },
+    "email": "Ellen.Botsford@gmail.com",
+    "phone": "890-746-6212 x258",
+    "location": "Port Vada, PA",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Night Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/47583096",
+    "notes": "Decretum totus curis absum tabgo quis verbera deprecator apto desidero."
+  },
+  {
+    "id": 9,
+    "name": "Celia White",
+    "experience_years": 15,
+    "skills": [
+      "Lean Six Sigma",
+      "Circular Economy Principles",
+      "Scrap Metal Grading",
+      "Supply Chain Optimization"
+    ],
+    "scores": {
+      "crisis_management": 89.5,
+      "sustainability": 69.4,
+      "team_motivation": 82.7,
+      "average": 80.53
+    },
+    "email": "Celia_White@yahoo.com",
+    "phone": "656-956-7610 x1447",
+    "location": "Aishaside, WI",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Flexible",
+    "avatar": "https://avatars.githubusercontent.com/u/39498379",
+    "notes": "Beneficium sint ipsum maxime vomica deinde adiuvo."
+  },
+  {
+    "id": 10,
+    "name": "Henrietta Wisozk",
+    "experience_years": 5,
+    "skills": [
+      "Lean Six Sigma",
+      "OSHA Safety Protocols",
+      "SAP ERP",
+      "Hazardous Waste Management"
+    ],
+    "scores": {
+      "crisis_management": 76.6,
+      "sustainability": 75.4,
+      "team_motivation": 87.4,
+      "average": 79.8
+    },
+    "email": "Henrietta.Wisozk@gmail.com",
+    "phone": "285-598-4306 x1099",
+    "location": "Vista, OH",
+    "education": "B.S. Environmental Science, Local State Tech",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/72.jpg",
+    "notes": "Torrens caput cognomen comedo."
+  },
+  {
+    "id": 11,
+    "name": "Sara Stehr",
+    "experience_years": 16,
+    "skills": [
+      "Hazardous Waste Management",
+      "Scrap Metal Grading",
+      "OSHA Safety Protocols",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 68.4,
+      "sustainability": 65.4,
+      "team_motivation": 70.4,
+      "average": 68.07
+    },
+    "email": "Sara_Stehr69@hotmail.com",
+    "phone": "238-735-5048 x5868",
+    "location": "Kingstead, WV",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Rotational",
+    "avatar": "https://avatars.githubusercontent.com/u/25769026",
+    "notes": "Caelestis accedo aestus caries est terreo coruscus demens."
+  },
+  {
+    "id": 12,
+    "name": "Jeannie Bergnaum",
+    "experience_years": 4,
+    "skills": [
+      "Circular Economy Principles",
+      "Hazardous Waste Management",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 95,
+      "sustainability": 64.9,
+      "team_motivation": 71,
+      "average": 76.97
+    },
+    "email": "Jeannie_Bergnaum75@yahoo.com",
+    "phone": "(477) 581-9691 x7021",
+    "location": "Deckowborough, ND",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Night Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/11784331",
+    "notes": "Umerus demergo cimentarius cum."
+  },
+  {
+    "id": 13,
+    "name": "Gerald Rath",
+    "experience_years": 16,
+    "skills": [
+      "ISO 14001 Compliance",
+      "Inventory Control",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 76.4,
+      "sustainability": 77.9,
+      "team_motivation": 89.8,
+      "average": 81.37
+    },
+    "email": "Gerald.Rath@gmail.com",
+    "phone": "1-953-337-5813 x73181",
+    "location": "Kameronmouth, HI",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/20.jpg",
+    "notes": "Terror summisse votum vivo antiquus."
+  },
+  {
+    "id": 14,
+    "name": "Felicia Mosciski",
+    "experience_years": 15,
+    "skills": [
+      "Scrap Metal Grading",
+      "OSHA Safety Protocols",
+      "Wastewater Treatment",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 76.8,
+      "sustainability": 78.2,
+      "team_motivation": 90.2,
+      "average": 81.73
+    },
+    "email": "Felicia.Mosciski9@yahoo.com",
+    "phone": "699.212.3851 x1956",
+    "location": "Port Derick, AR",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Flexible",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/10.jpg",
+    "notes": "Dolorum aufero ut cui."
+  },
+  {
+    "id": 15,
+    "name": "Janice Funk",
+    "experience_years": 4,
+    "skills": [
+      "Supply Chain Optimization",
+      "OSHA Safety Protocols",
+      "Fleet Management"
+    ],
+    "scores": {
+      "crisis_management": 76,
+      "sustainability": 88.8,
+      "team_motivation": 72.3,
+      "average": 79.03
+    },
+    "email": "Janice_Funk31@hotmail.com",
+    "phone": "(917) 260-7128 x45898",
+    "location": "West Terrance, CT",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Night Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/70574494",
+    "notes": "Accedo ustilo totam."
+  },
+  {
+    "id": 16,
+    "name": "Mona Hand",
+    "experience_years": 16,
+    "skills": [
+      "Scrap Metal Grading",
+      "Inventory Control",
+      "Supply Chain Optimization",
+      "Wastewater Treatment",
+      "Hazardous Waste Management"
+    ],
+    "scores": {
+      "crisis_management": 91.8,
+      "sustainability": 70.4,
+      "team_motivation": 90.9,
+      "average": 84.37
+    },
+    "email": "Mona.Hand@gmail.com",
+    "phone": "1-498-595-7348 x761",
+    "location": "Dorotheaside, VT",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/97.jpg",
+    "notes": "Argentum sumptus thesis astrum vulgaris video attollo at comprehendo cumque."
+  },
+  {
+    "id": 17,
+    "name": "Andrea Thiel",
+    "experience_years": 7,
+    "skills": [
+      "SAP ERP",
+      "Plastic Extrusion",
+      "Scrap Metal Grading",
+      "Wastewater Treatment",
+      "Hazardous Waste Management"
+    ],
+    "scores": {
+      "crisis_management": 90.7,
+      "sustainability": 77.4,
+      "team_motivation": 90.2,
+      "average": 86.1
+    },
+    "email": "Andrea_Thiel@yahoo.com",
+    "phone": "(382) 240-2951 x69302",
+    "location": "New Cullen, MS",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Flexible",
+    "avatar": "https://avatars.githubusercontent.com/u/94790203",
+    "notes": "Conforto aperio urbanus animi demulceo claro virtus."
+  },
+  {
+    "id": 18,
+    "name": "Stacey Ebert",
+    "experience_years": 9,
+    "skills": [
+      "Fleet Management",
+      "Lean Six Sigma",
+      "Wastewater Treatment",
+      "Plastic Extrusion",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 69.3,
+      "sustainability": 83.6,
+      "team_motivation": 72.5,
+      "average": 75.13
+    },
+    "email": "Stacey.Ebert@hotmail.com",
+    "phone": "905-442-8768 x835",
+    "location": "East Maddisonboro, NC",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/59.jpg",
+    "notes": "Auctus delectatio corporis demoror pel esse verecundia torrens summa aveho."
+  },
+  {
+    "id": 19,
+    "name": "Percy Tremblay",
+    "experience_years": 12,
+    "skills": [
+      "Inventory Control",
+      "SAP ERP",
+      "Fleet Management",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 86.3,
+      "sustainability": 91.8,
+      "team_motivation": 89.4,
+      "average": 89.17
+    },
+    "email": "Percy_Tremblay@gmail.com",
+    "phone": "1-237-283-5530",
+    "location": "Port Bettye, WV",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Day Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/34768376",
+    "notes": "Avaritia usque carbo sustineo nemo abduco."
+  },
+  {
+    "id": 20,
+    "name": "Jaime Kuphal-Schaden",
+    "experience_years": 13,
+    "skills": [
+      "ISO 14001 Compliance",
+      "Inventory Control",
+      "Circular Economy Principles",
+      "SAP ERP"
+    ],
+    "scores": {
+      "crisis_management": 75.5,
+      "sustainability": 63.5,
+      "team_motivation": 77.6,
+      "average": 72.2
+    },
+    "email": "Jaime.Kuphal-Schaden89@yahoo.com",
+    "phone": "773.596.0973 x99607",
+    "location": "Linneacester, TN",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/46.jpg",
+    "notes": "Summa apud ocer despecto commodo aspernatur contra unde baiulus tero."
+  },
+  {
+    "id": 21,
+    "name": "Ricky Strosin",
+    "experience_years": 15,
+    "skills": [
+      "Supply Chain Optimization",
+      "Hazardous Waste Management",
+      "Plastic Extrusion",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 77,
+      "sustainability": 82.5,
+      "team_motivation": 78.7,
+      "average": 79.4
+    },
+    "email": "Ricky_Strosin71@gmail.com",
+    "phone": "1-468-205-8396",
+    "location": "Port Manuelachester, KY",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/3.jpg",
+    "notes": "Usitas varietas suffoco uxor pecco certus angustus trepide."
+  },
+  {
+    "id": 22,
+    "name": "Enrique Schiller",
+    "experience_years": 9,
+    "skills": [
+      "Hazardous Waste Management",
+      "Circular Economy Principles",
+      "Fleet Management",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 74.5,
+      "sustainability": 76.7,
+      "team_motivation": 80.8,
+      "average": 77.33
+    },
+    "email": "Enrique_Schiller@yahoo.com",
+    "phone": "1-852-396-5877 x481",
+    "location": "Burien, TN",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Flexible",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/62.jpg",
+    "notes": "Confugo perspiciatis triumphus aestas conculco non patior denego."
+  },
+  {
+    "id": 23,
+    "name": "Wanda Hayes",
+    "experience_years": 25,
+    "skills": [
+      "Scrap Metal Grading",
+      "Fleet Management",
+      "Circular Economy Principles",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 92.4,
+      "sustainability": 79.1,
+      "team_motivation": 77.5,
+      "average": 83
+    },
+    "email": "Wanda_Hayes3@hotmail.com",
+    "phone": "1-219-907-5160 x3591",
+    "location": "West Herbertberg, TX",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/39.jpg",
+    "notes": "Culpo timor eos."
+  },
+  {
+    "id": 24,
+    "name": "Karla Turner",
+    "experience_years": 20,
+    "skills": [
+      "Lean Six Sigma",
+      "Hazardous Waste Management",
+      "OSHA Safety Protocols",
+      "SAP ERP"
+    ],
+    "scores": {
+      "crisis_management": 89,
+      "sustainability": 86.5,
+      "team_motivation": 90.2,
+      "average": 88.57
+    },
+    "email": "Karla.Turner@yahoo.com",
+    "phone": "970-852-0168 x9716",
+    "location": "South Luna, ME",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/14.jpg",
+    "notes": "Tum tepesco votum."
+  },
+  {
+    "id": 25,
+    "name": "Pat Hegmann",
+    "experience_years": 13,
+    "skills": [
+      "Supply Chain Optimization",
+      "SAP ERP",
+      "Plastic Extrusion",
+      "Inventory Control",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 81.7,
+      "sustainability": 77.7,
+      "team_motivation": 73.2,
+      "average": 77.53
+    },
+    "email": "Pat_Hegmann61@hotmail.com",
+    "phone": "506-638-6232",
+    "location": "East Julesside, MI",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/23.jpg",
+    "notes": "Articulus derelinquo debeo laborum alienus ait vereor arto."
+  },
+  {
+    "id": 26,
+    "name": "Preston Adams",
+    "experience_years": 25,
+    "skills": [
+      "Fleet Management",
+      "Hazardous Waste Management",
+      "Supply Chain Optimization",
+      "Circular Economy Principles",
+      "Scrap Metal Grading"
+    ],
+    "scores": {
+      "crisis_management": 92.5,
+      "sustainability": 82,
+      "team_motivation": 82.7,
+      "average": 85.73
+    },
+    "email": "Preston_Adams@gmail.com",
+    "phone": "886-321-0083",
+    "location": "Santaside, ND",
+    "education": "B.S. Environmental Science, Texas A&M",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/83.jpg",
+    "notes": "Texo argumentum deleniti adsuesco."
+  },
+  {
+    "id": 27,
+    "name": "Jeffery Olson",
+    "experience_years": 23,
+    "skills": [
+      "Supply Chain Optimization",
+      "Circular Economy Principles",
+      "ISO 14001 Compliance",
+      "Wastewater Treatment"
+    ],
+    "scores": {
+      "crisis_management": 70.7,
+      "sustainability": 71.5,
+      "team_motivation": 70.9,
+      "average": 71.03
+    },
+    "email": "Jeffery.Olson43@hotmail.com",
+    "phone": "672-744-7625 x167",
+    "location": "South Jordan, WA",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Flexible",
+    "avatar": "https://avatars.githubusercontent.com/u/39243582",
+    "notes": "Demo sodalitas vicissitudo aegrus carbo collum terreo delibero correptius."
+  },
+  {
+    "id": 28,
+    "name": "Jesus Rosenbaum",
+    "experience_years": 18,
+    "skills": [
+      "Wastewater Treatment",
+      "Circular Economy Principles",
+      "ISO 14001 Compliance",
+      "Plastic Extrusion",
+      "Inventory Control"
+    ],
+    "scores": {
+      "crisis_management": 77.7,
+      "sustainability": 72.9,
+      "team_motivation": 91.4,
+      "average": 80.67
+    },
+    "email": "Jesus_Rosenbaum53@hotmail.com",
+    "phone": "(420) 732-4040 x153",
+    "location": "Fort Juniorland, NC",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/65.jpg",
+    "notes": "Delectus eligendi balbus video vel volubilis arx bis vel."
+  },
+  {
+    "id": 29,
+    "name": "Jeremiah Bednar",
+    "experience_years": 5,
+    "skills": [
+      "OSHA Safety Protocols",
+      "Hazardous Waste Management",
+      "Lean Six Sigma",
+      "Scrap Metal Grading",
+      "Circular Economy Principles"
+    ],
+    "scores": {
+      "crisis_management": 71.6,
+      "sustainability": 84,
+      "team_motivation": 90.1,
+      "average": 81.9
+    },
+    "email": "Jeremiah_Bednar30@gmail.com",
+    "phone": "1-204-335-3743 x2656",
+    "location": "South Ernie, TX",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/82.jpg",
+    "notes": "Doloribus decerno trado cito supellex volva varius delectus."
+  },
+  {
+    "id": 30,
+    "name": "Melinda Kassulke",
+    "experience_years": 14,
+    "skills": [
+      "ISO 14001 Compliance",
+      "SAP ERP",
+      "Scrap Metal Grading",
+      "OSHA Safety Protocols",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 86.3,
+      "sustainability": 85,
+      "team_motivation": 74.5,
+      "average": 81.93
+    },
+    "email": "Melinda.Kassulke@gmail.com",
+    "phone": "1-379-954-7672 x1837",
+    "location": "West Johnnieville, WA",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/19.jpg",
+    "notes": "Delibero sodalitas tepidus cubo quas ars aspicio uterque defleo ex."
+  },
+  {
+    "id": 31,
+    "name": "Kristy Considine",
+    "experience_years": 15,
+    "skills": [
+      "Inventory Control",
+      "Supply Chain Optimization",
+      "ISO 14001 Compliance",
+      "SAP ERP"
+    ],
+    "scores": {
+      "crisis_management": 68.9,
+      "sustainability": 87.8,
+      "team_motivation": 78.5,
+      "average": 78.4
+    },
+    "email": "Kristy.Considine@yahoo.com",
+    "phone": "648.259.5840",
+    "location": "Fort Edgarstad, IN",
+    "education": "B.S. Environmental Science, Georgia Tech",
+    "shift_preference": "Night Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/79092570",
+    "notes": "Corpus vorago solio timidus cunabula solitudo sufficio somnus stultus."
+  },
+  {
+    "id": 32,
+    "name": "Chris Boyer",
+    "experience_years": 6,
+    "skills": [
+      "Fleet Management",
+      "SAP ERP",
+      "OSHA Safety Protocols",
+      "Supply Chain Optimization",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 96.8,
+      "sustainability": 83.6,
+      "team_motivation": 80.2,
+      "average": 86.87
+    },
+    "email": "Chris_Boyer@gmail.com",
+    "phone": "(792) 778-9107",
+    "location": "New Marcelinotown, NV",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/31.jpg",
+    "notes": "Tergeo optio aptus doloribus."
+  },
+  {
+    "id": 33,
+    "name": "Cedric Grady",
+    "experience_years": 12,
+    "skills": [
+      "Fleet Management",
+      "SAP ERP",
+      "Supply Chain Optimization",
+      "ISO 14001 Compliance",
+      "OSHA Safety Protocols"
+    ],
+    "scores": {
+      "crisis_management": 92,
+      "sustainability": 74,
+      "team_motivation": 93.2,
+      "average": 86.4
+    },
+    "email": "Cedric_Grady43@gmail.com",
+    "phone": "1-618-516-0417 x5478",
+    "location": "Eastvale, NY",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/73.jpg",
+    "notes": "Celebrer patruus ancilla communis."
+  },
+  {
+    "id": 34,
+    "name": "Chad Turner",
+    "experience_years": 7,
+    "skills": [
+      "Inventory Control",
+      "Plastic Extrusion",
+      "Scrap Metal Grading",
+      "SAP ERP",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 68,
+      "sustainability": 90.5,
+      "team_motivation": 78.8,
+      "average": 79.1
+    },
+    "email": "Chad_Turner60@yahoo.com",
+    "phone": "465-594-2426 x126",
+    "location": "Dickinsonville, NM",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Day Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/8311400",
+    "notes": "Agnosco numquam centum decretum voluptatibus antea delicate."
+  },
+  {
+    "id": 35,
+    "name": "Paula Ledner",
+    "experience_years": 5,
+    "skills": [
+      "Supply Chain Optimization",
+      "Wastewater Treatment",
+      "ISO 14001 Compliance"
+    ],
+    "scores": {
+      "crisis_management": 76.9,
+      "sustainability": 83.5,
+      "team_motivation": 83.2,
+      "average": 81.2
+    },
+    "email": "Paula.Ledner@gmail.com",
+    "phone": "(440) 713-5672",
+    "location": "Seattle, NM",
+    "education": "B.S. Environmental Science, Purdue University",
+    "shift_preference": "Flexible",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/76.jpg",
+    "notes": "Tubineus comitatus vestigium adopto."
+  },
+  {
+    "id": 36,
+    "name": "Dora Deckow",
+    "experience_years": 19,
+    "skills": [
+      "OSHA Safety Protocols",
+      "SAP ERP",
+      "Plastic Extrusion"
+    ],
+    "scores": {
+      "crisis_management": 89.6,
+      "sustainability": 89.8,
+      "team_motivation": 91.6,
+      "average": 90.33
+    },
+    "email": "Dora_Deckow@yahoo.com",
+    "phone": "318.740.2769 x740",
+    "location": "Midland, IN",
+    "education": "B.S. Environmental Science, Stanford",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/12.jpg",
+    "notes": "Perferendis assumenda quo expedita."
+  },
+  {
+    "id": 37,
+    "name": "Kari Labadie",
+    "experience_years": 6,
+    "skills": [
+      "Plastic Extrusion",
+      "Fleet Management",
+      "Hazardous Waste Management",
+      "Wastewater Treatment"
+    ],
+    "scores": {
+      "crisis_management": 93.3,
+      "sustainability": 60.1,
+      "team_motivation": 74.8,
+      "average": 76.07
+    },
+    "email": "Kari_Labadie@hotmail.com",
+    "phone": "(931) 765-1803 x8464",
+    "location": "Lake Gailhaven, OH",
+    "education": "B.S. Environmental Science, Local State Tech",
+    "shift_preference": "Day Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/16.jpg",
+    "notes": "Crudelis depereo adflicto reprehenderit."
+  },
+  {
+    "id": 38,
+    "name": "Ira Reinger",
+    "experience_years": 16,
+    "skills": [
+      "Fleet Management",
+      "Plastic Extrusion",
+      "Lean Six Sigma",
+      "Inventory Control"
+    ],
+    "scores": {
+      "crisis_management": 82.6,
+      "sustainability": 95.2,
+      "team_motivation": 86.2,
+      "average": 88
+    },
+    "email": "Ira.Reinger77@gmail.com",
+    "phone": "1-573-796-1869 x85702",
+    "location": "Donnyworth, NC",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Day Shift",
+    "avatar": "https://avatars.githubusercontent.com/u/12826330",
+    "notes": "Caput uberrime averto subvenio."
+  },
+  {
+    "id": 39,
+    "name": "Florence Bartoletti",
+    "experience_years": 19,
+    "skills": [
+      "Wastewater Treatment",
+      "SAP ERP",
+      "Supply Chain Optimization",
+      "Plastic Extrusion",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 71.2,
+      "sustainability": 85.1,
+      "team_motivation": 79.4,
+      "average": 78.57
+    },
+    "email": "Florence_Bartoletti@yahoo.com",
+    "phone": "281.856.5463 x667",
+    "location": "Tremainefort, WI",
+    "education": "B.S. Environmental Science, MIT",
+    "shift_preference": "Rotational",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/24.jpg",
+    "notes": "Cursim depereo animus tamisium comes."
+  },
+  {
+    "id": 40,
+    "name": "Gene Cummings",
+    "experience_years": 5,
+    "skills": [
+      "Circular Economy Principles",
+      "Scrap Metal Grading",
+      "Plastic Extrusion",
+      "Lean Six Sigma"
+    ],
+    "scores": {
+      "crisis_management": 74.8,
+      "sustainability": 66.1,
+      "team_motivation": 77,
+      "average": 72.63
+    },
+    "email": "Gene.Cummings@hotmail.com",
+    "phone": "1-377-968-9641 x1833",
+    "location": "Lake Brandtworth, IN",
+    "education": "B.S. Environmental Science, Georgia Tech",
+    "shift_preference": "Night Shift",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/79.jpg",
+    "notes": "Viridis teres cimentarius."
+  }
+]
